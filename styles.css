@@ -1,0 +1,33 @@
+html {
+   width:800px;
+   margin:auto;
+   background-color: black;
+}
+body {
+   background-color: MistyRose;
+   border: double 5px Navy;
+   padding: 10px;
+   padding-bottom: 5px;
+   font-family: verdana;}
+
+h1 {
+   color: DarkViolet;
+   border-bottom: solid 2px;
+   text-align: center;}
+
+ul {
+   color: RoyalBlue;}
+
+p {
+   color: green;}
+
+.caption {
+   font-size: 3px;
+   font-variant: small-caps;}
+
+img{
+   border-radius: 8px;
+   border: solid 3px white;
+   padding: 5px;
+   margin-bottom: 15px;}
+
